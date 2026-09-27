@@ -1,0 +1,6 @@
+{
+  "name": "creepteed-agents",
+  "description": "fable-planner (deep planning on Fable) and web-scout (broad web survey on Sonnet).",
+  "version": "1.0.0",
+  "author": { "name": "CreepteedLTD" }
+}

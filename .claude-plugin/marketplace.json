@@ -1,0 +1,16 @@
+{
+  "name": "creepteed",
+  "owner": {
+    "name": "CreepteedLTD"
+  },
+  "metadata": {
+    "description": "Claude Code agents from CreepteedLTD."
+  },
+  "plugins": [
+    {
+      "name": "creepteed-agents",
+      "source": "./plugins/creepteed-agents",
+      "description": "fable-planner (deep planning on Fable) and web-scout (broad web survey on Sonnet)."
+    }
+  ]
+}
